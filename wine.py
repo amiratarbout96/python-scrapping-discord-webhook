@@ -101,7 +101,7 @@ def main(keyword):
             embed = DiscordEmbed(title=link[0], description=link[1], color=242424)
 
             # set author
-            embed.set_author(name='Amira', url='https://www.freelancer.com/u/amiratarbout96', icon_url='https://cdn2.f-cdn.com/ppic/159713777/logo/47568275/profile_logo_47568275.jpg')
+            embed.set_author(name='Amira', url='https://www.finewineandgoodspirits.com/', icon_url='https://cdn2.f-cdn.com/ppic/159713777/logo/47568275/profile_logo_47568275.jpg')
 
             # set image
             embed.set_image(url=link[2])
